@@ -23,3 +23,7 @@ clawhub publish ./chief-of-staff --slug chief-of-staff --name "Chief of Staff" -
 ## License
 
 MIT
+
+## Atris ecosystem
+
+[atris](https://github.com/atrislabs/atris) · [member](https://github.com/atrislabs/member) · [chief-of-staff](./chief-of-staff/) · [`FOR_AGENTS.md`](FOR_AGENTS.md)
