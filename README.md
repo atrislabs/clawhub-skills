@@ -1,5 +1,7 @@
 # ClawHub Skills by Atris
 
+[![GitHub stars](https://img.shields.io/github/stars/atrislabs/clawhub-skills?style=social)](https://github.com/atrislabs/clawhub-skills/stargazers)
+
 Skills for [OpenClaw](https://openclaw.ai) published on [ClawHub](https://claw-hub.net).
 
 ## Skills
