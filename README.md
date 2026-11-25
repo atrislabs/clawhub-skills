@@ -27,3 +27,5 @@ MIT
 ## Atris ecosystem
 
 [atris](https://github.com/atrislabs/atris) · [member](https://github.com/atrislabs/member) · [chief-of-staff](./chief-of-staff/) · [`FOR_AGENTS.md`](FOR_AGENTS.md)
+
+- [`atris-x402`](atris-x402/SKILL.md) — Call Atris `team-1`, `agent-1`, AEO audits, brand design extraction, verified PDF parsing, and YouTube discovery with Base USDC via x402 v2 (zero API keys).
